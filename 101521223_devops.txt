@@ -6,4 +6,4 @@ Students will also learn about data formats and types, including:
 - JavaScript Object Notation (JSON)
 - Extensible Markup Language (XML)
 
-They will understand the value of these data formats in network automation, along with DevOps tools such as Ansible and Git.
+They will understand the value of these data formats in network automation, along with DevOps tools such as Ansible and Git
