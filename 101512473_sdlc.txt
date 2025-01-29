@@ -1,0 +1,6 @@
+Comp 2156 - Devops for system administration is a comprehensive
+
+course on Devops principles and practices. It uses tools like
+
+Jenkin and Docker while teaching CI/CD pipelines and cloud deployment.
+
