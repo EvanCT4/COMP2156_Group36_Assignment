@@ -4,7 +4,7 @@ Group 36 Assignment #1 Folder
 ## Group Members
 - **Leader:** Evan Thomas (101256897) - [GitHub](https://github.com/EvanCT4)
 - **Member 2:** 
-- **Member 3:** 
+- **Member 3:** Mehrdad Anari (101512473) - (https://github.com/mehrdadanari) 
 - **Member 4:**
 - **Member 5:**
 ## Project Description
