@@ -1,0 +1,8 @@
+Devops bridges the gap between development and operations
+
+steamlining the SDLC. it improves collboration, reduces deployment
+
+time and ensures consistent software delivery, making it an essential
+
+skill for modern software engineers.
+
