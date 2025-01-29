@@ -1,3 +1,6 @@
 The term Devops refers to a set of practices that aim to unify software dev and operations.
 
 There are many principles of devops including collaboration, automation, CI/CD, Monitoring and IaC.
+
+The benefits of devops include faster delivery of software updates, improved collaboration,
+greater reliability, scalability and flexibility as well as areduced time to market for new features.
