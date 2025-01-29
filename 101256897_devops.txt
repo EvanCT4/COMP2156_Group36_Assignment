@@ -1,1 +1,3 @@
 The term Devops refers to a set of practices that aim to unify software dev and operations.
+
+There are many principles of devops including collaboration, automation, CI/CD, Monitoring and IaC.
