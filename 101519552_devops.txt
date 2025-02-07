@@ -7,3 +7,11 @@ Automation – Automating processes like code integration, testing, and deployme
 Continuous Integration & Continuous Deployment (CI/CD) – Frequent code updates and automated deployment pipelines to ensure rapid software delivery.
 Monitoring & Logging – Real-time monitoring and analysis of system performance for quick issue resolution.
 Infrastructure as Code (IaC) – Managing infrastructure using code to ensure consistency and scalability.
+
+DevOps Tools & Technologies
+Version Control: Git, GitHub, GitLab, Bitbucket
+CI/CD Pipelines: Jenkins, GitHub Actions, GitLab CI/CD, CircleCI
+Configuration Management: Ansible, Puppet, Chef
+Containerization & Orchestration: Docker, Kubernetes
+Cloud Services: AWS, Azure, Google Cloud
+Monitoring & Logging: Prometheus, Grafana, ELK Stack, Datadog
