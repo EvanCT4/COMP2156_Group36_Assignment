@@ -15,3 +15,8 @@ Configuration Management: Ansible, Puppet, Chef
 Containerization & Orchestration: Docker, Kubernetes
 Cloud Services: AWS, Azure, Google Cloud
 Monitoring & Logging: Prometheus, Grafana, ELK Stack, Datadog
+
+DevOps Career & Demand
+High Demand – Companies are looking for DevOps engineers to improve efficiency and software delivery.
+Roles – DevOps Engineer, Site Reliability Engineer (SRE), Cloud Engineer, Automation Engineer.
+Skills Needed – Linux, scripting (Python, Bash), cloud computing, networking, and security.
