@@ -1,0 +1,3 @@
+The Importance of Learning Devops
+
+- Devops allows quality collaboration between team-members in the workplace, it allows work to be divided and the sharing of responsibilities between team-members.
