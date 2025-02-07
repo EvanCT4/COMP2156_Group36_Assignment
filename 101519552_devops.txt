@@ -1,2 +1,9 @@
 What is DevOps?
 DevOps is a set of practices, tools, and a cultural philosophy that integrates software development (Dev) and IT operations (Ops). The goal is to shorten the software development lifecycle and deliver high-quality software continuously.
+
+Key Concepts of DevOps
+Collaboration & Communication – Developers and operations teams work together for faster, more reliable deployments.
+Automation – Automating processes like code integration, testing, and deployment to increase efficiency.
+Continuous Integration & Continuous Deployment (CI/CD) – Frequent code updates and automated deployment pipelines to ensure rapid software delivery.
+Monitoring & Logging – Real-time monitoring and analysis of system performance for quick issue resolution.
+Infrastructure as Code (IaC) – Managing infrastructure using code to ensure consistency and scalability.
