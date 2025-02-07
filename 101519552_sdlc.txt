@@ -30,3 +30,11 @@ Maintenance & Support
 
 Fix bugs, provide updates, and improve performance.
 Implement security patches and feature enhancements.
+
+Popular SDLC Models
+Waterfall Model – Sequential, phase-by-phase approach. Best for well-defined projects.
+Agile Model – Iterative development with continuous feedback. Common in modern software development.
+Scrum Framework – A subset of Agile, using sprints and daily stand-ups.
+V-Model (Validation & Verification) – Testing happens alongside development phases.
+Spiral Model – Risk-driven, iterative model for complex projects.
+DevOps Approach – Continuous integration and deployment with automation.
