@@ -5,7 +5,7 @@ Group 36 Assignment #1 Folder
 - **Leader:** Evan Thomas (101256897) - [GitHub](https://github.com/EvanCT4)
 - **Member 2:** Jacob Pahalan (101521223) - [GitHub](https://github.com/jpahalan)
 - **Member 3:** Mehrdad Anari (101512473) - [GitHub](https://github.com/mehrdadanari)
-- **Member 4:**
+- **Member 4:** Sarah Sampson (101519552) - [GitHub](https://github.com/16bit-cat)
 - **Member 5:**
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on
