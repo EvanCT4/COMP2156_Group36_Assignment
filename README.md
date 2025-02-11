@@ -5,6 +5,10 @@
 - **Member 3:** Mehrdad Anari (101512473) - [GitHub](https://github.com/mehrdadanari)
 - **Member 4:** Sarah Sampson (101519552) - [GitHub](https://github.com/16bit-cat)
 - **Member 5:** Remi Hayes (101492355)    - [GitHub](https://github.com/fenexrox)
+<<<<<<< HEAD
+=======
+- **Member 6:**
+>>>>>>> c0cf39f9124c42857e0a403a5bdb40bfa704baf2
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on
 collaborative Git workflows, branching strategies, and CI/CD integration.
