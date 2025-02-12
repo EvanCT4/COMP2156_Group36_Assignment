@@ -1,0 +1,6 @@
+COMP2156 - DevOps
+
+Course Description:
+The course DevOps for System Admin aims to teach students the protocols, procedures and practices that a DevOps enginner would use in a workplace.
+Students in the course will learn data formats such as Extendsible Markup Language (XML), JavaScript Object Notation (JSON), Yaml Ain't Markup Language (YAML) and Yet Another Next Generation (YANG)
+The course features 2 exams, 2 assignments, and 10 lab exercises/quizzes
